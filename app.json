@@ -1,7 +1,7 @@
 {
     "name": "𝐄𝐌𝐌𝐀 𝐌𝐔𝐒𝐈𝐂 𝐁𝐎𝐓",
-    "logo": "https://telegra.ph/file/cb7b0aead06c96955323e.jpg",
-    "description": "Grabs song from yt and sends it to telegram by @TamilBots",
+    "logo": "https://telegra.ph/file/f7e1f308e364bf6a27449.jpg",
+    "description": "Grabs song from yt and sends it to telegram by @epusthakalaya_bots",
     "env": {
         "API_ID": {
             "description": "Get this value from my.telegram.org.",
