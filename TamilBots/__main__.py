@@ -35,13 +35,18 @@ async def start(client, message):
     name = message.from_user["first_name"]
     if message.chat.type == "private":
         btn = InlineKeyboardMarkup(
-           [[InlineKeyboardButton(text="📣 BOT UPDATES 📣", url="https://t.me/epusthakalaya_bots"),
-             InlineKeyboardButton(
-                        text="⚜️ ADD ME ⚜️", url="http://t.me/EmmaMusicBot?startgroup=true"
-                    )
-                ]
-            ]
-        )
+           [
+               [
+                   InlineKeyboardButton(text="📣 BOT UPDATES 📣", url="https://t.me/epusthakalaya_bots"),
+                   InlineKeyboardButton(text="⚜️ ADD ME ⚜️", url="https://t.me/epusthakalayabotsupport")
+               ],
+               
+               [
+                   InlineKeyboardButton(text="🎓 DEVELOPER 🎓", url='https://t.me/kasu_bro'),
+                   InlineKeyboardButton(text="⚜️ ADD ME ⚜️", url="http://t.me/EmmaMusicBot?startgroup=true")
+              ]
+        ]
+    )
     else:
         btn = None
     await message.reply(start_text.format(name, user_id), reply_markup=btn)
