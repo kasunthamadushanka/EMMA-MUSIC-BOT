@@ -38,7 +38,7 @@ async def start(client, message):
            [
                [
                    InlineKeyboardButton(text="📣 BOT UPDATES 📣", url="https://t.me/epusthakalaya_bots"),
-                   InlineKeyboardButton(text="⚜️ ADD ME ⚜️", url="https://t.me/epusthakalayabotsupport")
+                   InlineKeyboardButton(text="👥 SUPPORT GROUP 👥", url="https://t.me/epusthakalayabotsupport")
                ],
                
                [
