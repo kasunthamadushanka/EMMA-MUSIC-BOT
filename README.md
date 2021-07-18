@@ -14,7 +14,7 @@ Demo : [𝐄𝐌𝐌𝐀 𝐌𝐔𝐒𝐈𝐂 𝐁𝐎𝐓](https://t.me/EmmaMus
 Easy To Deploy
 
 # DEPLOY 🏃‍♂️
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/IVETRI/SongPlayRoBot.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kasunthamadushanka/EMMA-MUSIC-BOT.git)
 
 
 
