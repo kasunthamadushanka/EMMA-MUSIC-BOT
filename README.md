@@ -25,6 +25,6 @@ You can also join our Main Channel [HERE!](https://t.me/epusthakalaya_bots)
 
 
 # Credits
-[ᴋᴀsᴜ ʙʀᴏ 🇱🇰](https://t.me/kasu_bro): Dev
-[Original Repo owners](https://github.com/TamilBots/SongPlayRoBot.git)
+-[ᴋᴀsᴜ ʙʀᴏ 🇱🇰](https://t.me/kasu_bro): Dev
+-[Original Repo owners](https://github.com/TamilBots/SongPlayRoBot.git)
 
