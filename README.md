@@ -1,17 +1,10 @@
-# Check Our New Bot Repo & Video :
+# EMMA MUSIC BOT
 
-[Video](https://youtu.be/3pN0W4KzzNY) 🎥
-
-Repo : [SongProBot 🎻](https://GitHub.Com/TamilBots/SongPlayRoBot)
-
-Bot : [Song Pro Bot 🧚‍](https://t.me/SongProBot)
-
-# SongPlayRoBot
-3X Fast Telethon Based Bot ⚜
+Fast Telethon Based Music Bot ⚜
 
 Open Source Bot 👨🏻‍💻
 
-Demo : [SongProBot  🎻](https://t.me/SongProBot) 💃🏻
+Demo : [𝐄𝐌𝐌𝐀 𝐌𝐔𝐒𝐈𝐂 𝐁𝐎𝐓](https://t.me/EmmaMusicBot) 💃🏻
 
 Easy To Deploy 🤗
 
