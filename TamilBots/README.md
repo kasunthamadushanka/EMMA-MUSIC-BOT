@@ -1,5 +1,9 @@
-# Check Our New Bot Repo & Video :
-(img src='https://telegra.ph/file/f7e1f308e364bf6a27449.jpg')
+# ✨ 𝐄𝐌𝐌𝐀 𝐌𝐔𝐒𝐈𝐂 𝐁𝐎𝐓 ✨ :
+
+<p align="center">
+  <img src="https://telegra.ph/file/f7e1f308e364bf6a27449.jpg">
+</p>
+
 
 [Video](https://youtu.be/3pN0W4KzzNY) 🎥
 
