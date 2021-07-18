@@ -1,23 +1,30 @@
-# EMMA MUSIC BOT
+<h1 align="centre">🎵 EMMA MUSIC BOT🎵</h1>
 
-Fast Telethon Based Music Bot ⚜
+### A bot that can download any songs.
 
-Open Source Bot 👨🏻‍💻
+# Available on telegram as @EmmaMusicBot
 
-Demo : [𝐄𝐌𝐌𝐀 𝐌𝐔𝐒𝐈𝐂 𝐁𝐎𝐓](https://t.me/EmmaMusicBot) 💃🏻
+<p align="center">
+  <img src="https://telegra.ph/file/f7e1f308e364bf6a27449.jpg">
+</p>
 
-Easy To Deploy 🤗
+Demo : [𝐄𝐌𝐌𝐀 𝐌𝐔𝐒𝐈𝐂 𝐁𝐎𝐓](https://t.me/EmmaMusicBot)
 
-# Click Below Image to Deploy
-[![Deploy](https://telegra.ph/file/9d337b3414bbf8e39ba79.jpg)](https://heroku.com/deploy?template=https://github.com/kasunthamadushanka/EMMA-MUSIC-BOT.git)
-# DEPLOY
+
+Easy To Deploy
+
+# DEPLOY 🏃‍♂️
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/IVETRI/SongPlayRoBot.git)
 
-# Group
-You can also join our support group [HERE!](https://t.me/TamilSupport) 👨🏻‍💻
-
-# Report error
-Report your problem along with your name to This [PERSON](https://t.me/IMVETRI) 😪
 
 
+# Bot U pdates
+You can also join our Main Channel [HERE!](https://t.me/epusthakalaya_bots)
+
+
+
+
+# CREDITS
+[ᴋᴀsᴜ ʙʀᴏ 🇱🇰](https://t.me/kasu_bro): Dev
+[Original Repo owners](https://github.com/TamilBots/SongPlayRoBot.git)
 
