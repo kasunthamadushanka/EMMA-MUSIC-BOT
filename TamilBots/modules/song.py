@@ -31,6 +31,22 @@ async def song(client, message):
         await message.reply("Enter a song name. Check /help")
         return ""
     status = await message.reply("🚀 🔎 🔎 Searching Your Song... 🎶 Please Wait ⏳️  [🚀](https://telegra.ph/file/94c184f24925b1d00a3e9.mp4)")
+    try:
+        with youtube_dl.YoutubeDL(ydl_opts) as ydl:
+            info_dict = ydl.extract_info(link, download=False)
+            audio_file = ydl.prepare_filename(info_dict)
+            ydl.process_info(info_dict)
+        rep = f'🎧 𝐓𝐢𝐭𝐥𝐞 : [{title[:35]}]({link})\n⏳ 𝐃𝐮𝐫𝐚𝐭𝐢𝐨𝐧 : `{duration}`\n🎬 𝐒𝐨𝐮𝐫𝐜𝐞 : [Youtube](https://youtu.be/3pN0W4KzzNY)\n👁‍🗨 𝐕𝐢𝐞𝐰𝐬 : `{views}`\n\n💌 𝐁𝐲 : @SongPlayRoBot'
+        secmul, dur, dur_arr = 1, 0, duration.split(':')
+        for i in range(len(dur_arr)-1, -1, -1):
+            dur += (int(dur_arr[i]) * secmul)
+            secmul *= 60
+        message.reply_audio(audio_file, caption=rep, parse_mode='md',quote=False, title=title, duration=dur, thumb=thumb_name)
+        m.delete()
+    except Exception as e:
+        m.edit('❌ 𝐄𝐫𝐫𝐨𝐫\n\n Report This Erorr To Fix @TamilSupport ❤️')
+        print(e)
+    try:
     video_link = yt_search(args)
     if not video_link:
         await status.edit("✖️ Found Nothing..\n\nTry Again.\n\nEg.`/song Faded`")
