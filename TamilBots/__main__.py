@@ -50,8 +50,7 @@ async def start(client, message):
                    InlineKeyboardButton(text="🌟 REVIEW US 🌟", url='https://t.me/tlgrmcbot?start=emmamusicbot-review') 
                ],
                
-              ]
-          
+          ]     
     )
     else:
         btn = None
