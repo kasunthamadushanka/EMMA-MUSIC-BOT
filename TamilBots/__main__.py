@@ -68,5 +68,5 @@ async def help(client, message):
 
 OWNER_ID.append(1167071602)
 app.start()
-LOGGER.info("𝐄𝐌𝐌𝐀 𝐌𝐔𝐒𝐈𝐂 𝐁𝐎𝐓 Is Online! ✅")
+LOGGER.info("𝐄𝐌𝐌𝐀 𝐌𝐔𝐒𝐈𝐂 𝐁𝐎𝐓 Was Deployed Successfully! ✅")
 idle()
