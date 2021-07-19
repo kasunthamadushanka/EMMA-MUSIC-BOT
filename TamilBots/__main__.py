@@ -44,6 +44,12 @@ async def start(client, message):
                [
                    InlineKeyboardButton(text="🎓 DEVELOPER 🎓", url='https://t.me/kasu_bro'),
                    InlineKeyboardButton(text="⚜️ ADD ME ⚜️", url="http://t.me/EmmaMusicBot?startgroup=true")
+               ],
+               
+               [
+                   InlineKeyboardButton(text="🌟 REVIEW US 🌟", url='https://t.me/tlgrmcbot?start=emmamusicbot-review') 
+               ],
+               
               ]
         ]
     )
