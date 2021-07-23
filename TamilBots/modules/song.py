@@ -30,10 +30,10 @@ async def song(client, message):
     if args.startswith(" "):
         await message.reply("Enter a song name. Check /help")
         return ""
-    status = await message.reply("🚀 🔎 🔎 Searching Your Song... 🎶 Please Wait ⏳️  [🚀](https://telegra.ph/file/94c184f24925b1d00a3e9.mp4)")
+    status = await message.reply(" 🔎 🇸🇪🇦🇷🇨🇭🇮🇳🇬 🇾🇴🇺🇷 🇸🇴🇳🇬 🎶 🇵🇱🇪🇦🇸🇪 🇼🇦🇮🇹 ⏳️  [🚀](https://telegra.ph/file/94c184f24925b1d00a3e9.mp4)")
     video_link = yt_search(args)
     if not video_link:
-        await status.edit("✖️ Found Nothing..\n\nTry Again.\n\nEg.`/song Faded`")
+        await status.edit("✖️ Found Nothing..\n\nTry Again.\n\nEg.`/song Bad habits`")
         return ""
     yt = YouTube(video_link)
     audio = yt.streams.filter(only_audio=True).first()
