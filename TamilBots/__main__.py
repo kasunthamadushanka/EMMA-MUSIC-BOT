@@ -16,7 +16,7 @@ start_text = """
 Powered By 🔰@epusthakalaya_bots🔰
 
 Send The Name of the Song You Want..
-𝐄𝐠. ```/song Faded```
+𝐄𝐠. ```/song Bad Habits```
 """
 
 owner_help = """
